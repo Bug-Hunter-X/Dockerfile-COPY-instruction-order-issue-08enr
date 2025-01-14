@@ -1,0 +1,1 @@
+This repository contains a Dockerfile with a common error and its solution. The error involves incorrect placement of the COPY instruction, leading to a failure during dependency installation. The solution shows the correct order of instructions to ensure successful dependency installation.
